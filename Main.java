@@ -32,6 +32,7 @@ public class Main {
             if(isLatte && (balance >= (lattePrice * amountInput))){
                 System.out.println("enjoy your latte");
             }
+          
             
         }else{
             System.out.println("no coffee - amount requested is 0 or less");
